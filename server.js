@@ -6,8 +6,8 @@ const port= process.env.PORT || 3000;
 // app.get('/',(req, res)=>{
 
 //     let obj={
-//         nombre: 'Ruth',
-//         edad: 51,
+//         nombre: 'Elias',
+//         edad: 25,
 //         url:req.url
 //     }
 //     res.send(obj)
